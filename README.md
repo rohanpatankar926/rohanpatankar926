@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Tensorflow,Keras,JavaScript and so on..**
 
+- Currently implementing Data Science End TO End projects 
+
 - 💬 Ask me about **DataScience,Web Devolopment,Machine Learning and Data Analytics**
 
 - 📫 How to reach me **rohanpatankar926@gmail.com**
