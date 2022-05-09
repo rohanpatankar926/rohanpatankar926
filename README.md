@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science,Web Dev**
 
-- 👨‍💻 All of my projects are available at [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app)
+- 👨‍💻 Look at my portfolio [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app)
 
 - 💬 Ask me about **DataScience,Ml,Dl,Web dev**
 
