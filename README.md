@@ -12,7 +12,7 @@
 - 💬 Ask me about **DataScience,Ml,Dl,Web dev**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PMkXtGcHn5rlswGQquLhRb8b9jmZ-L_8/view](https://drive.google.com/file/d/1PMkXtGcHn5rlswGQquLhRb8b9jmZ-L_8/view)
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohanpatankar926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanpatankar926" height="30" width="40" /></a>
