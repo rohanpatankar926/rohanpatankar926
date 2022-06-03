@@ -14,7 +14,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpatankar926&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpatankar926" /> </p>
 
-- 🔭 I’m currently working on Mlops project **Consignment Pricing**
+- 🔭 I’m currently working on **OpenCv** projects
 
 - 🌱 I’m currently learning **Data Science,Web Dev**
 
