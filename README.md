@@ -7,7 +7,7 @@
 
 <body>
     <h1 align="center">Hi 👋, I'm Rohan Patankar</h1>
-<h3 align="center">A Software Developer Intern with a passionate towards Data Science</h3>
+<h3 align="center">Jr Data Scientist</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohanpatankar926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanpatankar926" height="30" width="40" /></a>
