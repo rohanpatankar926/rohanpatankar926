@@ -21,7 +21,6 @@
     <p>🌱 I’m currently learning <strong>Advanced System Development, System Design</strong>.</p>
     <p>👨‍💻 Check out my portfolio: <a href="https://rohanpatankar.netlify.app" target="_blank">https://rohanpatankar.netlify.app</a></p>
     <p>💬 Ask me about <strong>Data Science, ML, DL, Web Development</strong>.</p>
-    <p>📄 Know about my experiences: <a href="https://drive.google.com/file/d/17w7d5I3UeHdToOU9-zUcfmn3Yox4tkpo/view?usp=sharing" target="_blank">Resume</a></p>
     <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
     <h3 align="left">Skills:</h3>
     <h4>DS/ML/AI:</h4>
